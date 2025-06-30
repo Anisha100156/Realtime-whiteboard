@@ -35,12 +35,13 @@ cd real-time-whiteboard
 
 ```bash
 cd backend
-python main.py
+node server.js
 ```
 ### Step 3: Step 3: Install and Run Frontend (Client)
 
 ```bash
 cd frontend
+cd vite-project
 npm run dev
 ```
 ## 🖥️ Usage Instructions
@@ -53,6 +54,8 @@ npm run dev
 ## 📸 Project Preview
 
 ![Whiteboard Preview](./preview1.png)
+![Whiteboard Preview](./preview2.png)
+![Whiteboard Preview](./preview3.png)
 
 
  
