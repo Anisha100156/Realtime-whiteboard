@@ -30,6 +30,29 @@ A low-latency, real-time collaborative whiteboard built with **React.js**, **Nod
 ```bash
 git clone https://github.com/yourusername/real-time-whiteboard.git
 cd real-time-whiteboard
+```
+### Step 2: Install and Run Backend (Server)
+
+```bash
+cd backend
+python main.py
+```
+### Step 3: Step 3: Install and Run Frontend (Client)
+
+```bash
+cd frontend
+npm run dev
+```
+## 🖥️ Usage Instructions
+
+1. Open: [http://localhost:3000](http://localhost:3000) in your browser.
+2. Enter a **Room Name** (or create a new one).
+3. Share the **Room Name** with friends or teammates.
+4. Start **drawing**, **annotating**, and **chatting** in real-time!
+
+## 📸 Project Preview
+
+![Whiteboard Preview](./assets/whiteboard-preview.png)
 
 
  
