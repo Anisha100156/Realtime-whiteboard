@@ -52,7 +52,7 @@ npm run dev
 
 ## 📸 Project Preview
 
-![Whiteboard Preview](./assets/whiteboard-preview.png)
+![Whiteboard Preview](./preview1.png)
 
 
  
